@@ -26,6 +26,12 @@ Source: [https://www.datacamp.com/cheat-sheet/pyspark-cheat-sheet-spark-datafram
 
 ## Visualization
 
+### [Plotly Express](https://plotly.com/python/plotly-express/)
+
+[![Plotly Express cheatsheet](https://franzdiebold.github.io/plotly-express-cheatsheet/Plotly_Express_cheatsheet.png)](https://franzdiebold.github.io/plotly-express-cheatsheet/Plotly_Express_cheatsheet.pdf)
+
+Source: [FranzDiebold/plotly-express-cheatsheet](https://github.com/FranzDiebold/plotly-express-cheatsheet)
+
 ### Choosing a good chart
 
 [![Choosing a good chart](images/choosing-a-good-chart.png)](cheatsheets/choosing-a-good-chart.pdf)
