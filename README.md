@@ -2,6 +2,18 @@
 
 A collection of Data Science cheatsheets.
 
+## Table of contents
+
+- [Data Extraction](#data-extraction)
+  - [SQL](#sql)
+- [Data Processing](#data-processing)
+  - [Pandas](#pandas)
+  - [PySpark](#pyspark)
+- [Visualization](#visualization)
+  - [Plotly Express](#plotly-express)
+  - [Choosing a good chart](#choosing-a-good-chart)
+  - [Chart guide](#chart-guide)
+
 ## Data Extraction
 
 ### SQL
