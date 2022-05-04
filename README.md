@@ -1,6 +1,6 @@
-# Data Science cheatsheets
+# Data Science cheat sheets
 
-A collection of Data Science cheatsheets.
+A collection of Data Science cheat sheets.
 
 ## Table of contents
 
@@ -18,21 +18,25 @@ A collection of Data Science cheatsheets.
 
 ### SQL
 
-[![SQL cheatsheet](images/sql-cheatsheet.png)](cheatsheets/sql-cheatsheet.pdf)
+[![SQL cheat sheet](images/sql-cheat-sheet.png)](cheat-sheets/sql-cheat-sheet.pdf)
 
 Source: [https://learnsql.com/tags/cheat-sheet/](https://learnsql.com/tags/cheat-sheet/)
 
 ## Data Processing
 
+### [Polars](https://www.pola.rs/)
+
+[ ] add Polars cheat sheet
+
 ### [Pandas](https://pandas.pydata.org/)
 
-[![Pandas cheatsheet](images/Pandas-cheatsheet.png)](cheatsheets/Pandas-cheatsheet.pdf)
+[![Pandas cheat sheet](images/Pandas-cheat-sheet.png)](cheat-sheets/Pandas-cheat-sheet.pdf)
 
 Source: [https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
 ### [PySpark](https://spark.apache.org/docs/latest/api/python/)
 
-[![PySpark cheatsheet](images/PySpark-cheatsheet.png)](cheatsheets/PySpark-cheatsheet.pdf)
+[![PySpark cheat sheet](images/PySpark-cheat-sheet.png)](cheat-sheets/PySpark-cheat-sheet.pdf)
 
 Source: [https://www.datacamp.com/cheat-sheet/pyspark-cheat-sheet-spark-dataframes-in-python](https://www.datacamp.com/cheat-sheet/pyspark-cheat-sheet-spark-dataframes-in-python)
 
@@ -40,18 +44,18 @@ Source: [https://www.datacamp.com/cheat-sheet/pyspark-cheat-sheet-spark-datafram
 
 ### [Plotly Express](https://plotly.com/python/plotly-express/)
 
-[![Plotly Express cheatsheet](https://franzdiebold.github.io/plotly-express-cheatsheet/Plotly_Express_cheatsheet.png)](https://franzdiebold.github.io/plotly-express-cheatsheet/Plotly_Express_cheatsheet.pdf)
+[![Plotly Express cheat sheet](https://franzdiebold.github.io/plotly-express-cheat-sheet/Plotly_Express_cheat_sheet.png)](https://franzdiebold.github.io/plotly-express-cheat-sheet/Plotly_Express_cheat_sheet.pdf)
 
-Source: [FranzDiebold/plotly-express-cheatsheet](https://github.com/FranzDiebold/plotly-express-cheatsheet)
+Source: [FranzDiebold/plotly-express-cheat-sheet](https://github.com/FranzDiebold/plotly-express-cheat-sheet)
 
 ### Choosing a good chart
 
-[![Choosing a good chart](images/choosing-a-good-chart.png)](cheatsheets/choosing-a-good-chart.pdf)
+[![Choosing a good chart](images/choosing-a-good-chart.png)](cheat-sheets/choosing-a-good-chart.pdf)
 
 Source: [https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf](https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf)
 
 ### Chart guide
 
-[![Chart Guide](images/ChartGuide.png)](cheatsheets/ChartGuide.pdf)
+[![Chart Guide](images/ChartGuide.png)](cheat-sheets/ChartGuide.pdf)
 
 Source: [https://chart.guide/poster/](https://chart.guide/poster/)
