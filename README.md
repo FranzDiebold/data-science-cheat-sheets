@@ -6,13 +6,17 @@ A collection of Data Science cheat sheets.
 
 - [Data Extraction](#data-extraction)
   - [SQL](#sql)
+  - [Python Regular expressions](#python-regular-expressions)
 - [Data Processing](#data-processing)
+  - [Polars](#polars)
   - [Pandas](#pandas)
   - [PySpark](#pyspark)
 - [Visualization](#visualization)
   - [Plotly Express](#plotly-express)
   - [Choosing a good chart](#choosing-a-good-chart)
   - [Chart guide](#chart-guide)
+- [Modeling](#modeling)
+  - [Keras](#keras)
 
 ## Data Extraction
 
@@ -21,6 +25,10 @@ A collection of Data Science cheat sheets.
 [![SQL cheat sheet](images/sql-cheat-sheet.png)](cheat-sheets/sql-cheat-sheet.pdf)
 
 Source: [https://learnsql.com/tags/cheat-sheet/](https://learnsql.com/tags/cheat-sheet/)
+
+### [Python Regular expressions](https://docs.python.org/3/library/re.html)
+
+[ ] add Python regex cheat sheet
 
 ## Data Processing
 
@@ -59,3 +67,9 @@ Source: [https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.
 [![Chart Guide](images/ChartGuide.png)](cheat-sheets/ChartGuide.pdf)
 
 Source: [https://chart.guide/poster/](https://chart.guide/poster/)
+
+## Modeling
+
+### [Keras](https://keras.io/)
+
+[ ] add Keras cheat sheet
