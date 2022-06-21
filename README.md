@@ -17,6 +17,8 @@ A collection of Data Science cheat sheets.
   - [Chart guide](#chart-guide)
 - [Modeling](#modeling)
   - [Keras](#keras)
+- [Infrastructure](#infrastructure)
+  - [Docker](#docker)
 
 ## Data Extraction
 
@@ -73,3 +75,14 @@ Source: [https://chart.guide/poster/](https://chart.guide/poster/)
 ### [Keras](https://keras.io/)
 
 [ ] add Keras cheat sheet
+
+## Infrastructure
+
+### [Docker](https://www.docker.com/)
+
+[![Docker cheat sheet](images/Docker-cheat-sheet.png)](cheat-sheets/Docker-cheat-sheet.pdf)
+
+Sources:
+
+- [https://www.lostindetails.com/cheatsheet/docker/docker_blue_light1.pdf](https://www.lostindetails.com/cheatsheet/docker/docker_blue_light1.pdf)
+- [https://dockerlux.github.io/pdf/cheat-sheet-v2.pdf](https://dockerlux.github.io/pdf/cheat-sheet-v2.pdf)
