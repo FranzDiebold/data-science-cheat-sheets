@@ -30,7 +30,9 @@ Source: [https://learnsql.com/tags/cheat-sheet/](https://learnsql.com/tags/cheat
 
 ### [Python Regular expressions](https://docs.python.org/3/library/re.html)
 
-[ ] add Python regex cheat sheet
+[![Python regular expressions cheat sheet](images/Python-regular-expressions-cheat-sheet.png)](cheat-sheets/Python-regular-expressions-cheat-sheet.pdf)
+
+Source: [https://www.dataquest.io/blog/regex-cheatsheet/](https://www.dataquest.io/blog/regex-cheatsheet/)
 
 ## Data Processing
 
