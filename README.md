@@ -76,7 +76,9 @@ Source: [https://chart.guide/poster/](https://chart.guide/poster/)
 
 ### [Keras](https://keras.io/)
 
-[ ] add Keras cheat sheet
+[![Keras cheat sheet](images/Keras-cheat-sheet.png)](cheat-sheets/Keras-cheat-sheet.pdf)
+
+Source: [https://www.datacamp.com/cheat-sheet/keras-cheat-sheet-neural-networks-in-python](https://www.datacamp.com/cheat-sheet/keras-cheat-sheet-neural-networks-in-python)
 
 ## Infrastructure
 
