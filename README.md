@@ -64,7 +64,7 @@ Source: [FranzDiebold/plotly-express-cheat-sheet](https://github.com/FranzDiebol
 
 [![Choosing a good chart](images/choosing-a-good-chart.png)](cheat-sheets/choosing-a-good-chart.pdf)
 
-Source: [https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf](https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf)
+Source: [https://www.tapclicks.com/resources/blog/data-visualization-types/](https://www.tapclicks.com/resources/blog/data-visualization-types/)
 
 ### Chart guide
 
