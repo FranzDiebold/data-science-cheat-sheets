@@ -38,7 +38,9 @@ Source: [https://www.dataquest.io/blog/regex-cheatsheet/](https://www.dataquest.
 
 ### [Polars](https://www.pola.rs/)
 
-[ ] add Polars cheat sheet
+[![Polars cheat sheet](https://franzdiebold.github.io/polars-cheat-sheet/Polars_cheat_sheet.png)](https://franzdiebold.github.io/polars-cheat-sheet/Polars_cheat_sheet.pdf)
+
+Source: [FranzDiebold/polars-cheat-sheet](https://github.com/FranzDiebold/polars-cheat-sheet)
 
 ### [Pandas](https://pandas.pydata.org/)
 
