@@ -11,6 +11,8 @@ A collection of Data Science cheat sheets.
   - [Polars](#polars)
   - [Pandas](#pandas)
   - [PySpark](#pyspark)
+- [Computer Vision](#computer-vision)
+  - [OpenCV](#opencv)
 - [Visualization](#visualization)
   - [Plotly Express](#plotly-express)
   - [Choosing a good chart](#choosing-a-good-chart)
@@ -53,6 +55,14 @@ Source: [https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf](https://pandas.pydata
 [![PySpark cheat sheet](images/PySpark-cheat-sheet.png)](cheat-sheets/PySpark-cheat-sheet.pdf)
 
 Source: [https://www.datacamp.com/cheat-sheet/pyspark-cheat-sheet-spark-dataframes-in-python](https://www.datacamp.com/cheat-sheet/pyspark-cheat-sheet-spark-dataframes-in-python)
+
+## Computer Vision
+
+### [OpenCV](https://opencv.org/)
+
+[![OpenCV cheat sheet](images/OpenCV-cheat-sheet.png)](cheat-sheets/OpenCV-cheat-sheet.pdf)
+
+Source: [https://github.com/a-anjos/python-opencv](https://github.com/a-anjos/python-opencv)
 
 ## Visualization
 
